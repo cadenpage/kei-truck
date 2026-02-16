@@ -1,0 +1,11 @@
+[workspace]
+authors = ["caden <ckp634@my.utexas.edu>"]
+channels = ["conda-forge"]
+name = "kei-truck"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = "3.12.*"
