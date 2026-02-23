@@ -1,6 +1,7 @@
 # Kei Truck
 Kei Truck is an embedded robotics teleoperation project focused on low-latency wireless vehicle control with ESP-NOW.  
 The current baseline validates ESP32 motor control and peer-to-peer command transfer, and the next phase adds MediaPipe hand-tracking teleoperation so the car steers from live camera input.
+![Kei Truck](imgs/kei_truck.png)
 
 ---
 
